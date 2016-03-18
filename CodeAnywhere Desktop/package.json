@@ -1,7 +1,7 @@
 {
-    "name": "Cloud9-Desktop",
+    "name": "CodeAnywhere-Desktop",
     "version": "1.0",
-    "main": "https://c9.io/login",
+    "main": "https://codeanywhere.com/login",
     "window": {
         "toolbar": false,
         "icon": "icon.png",
