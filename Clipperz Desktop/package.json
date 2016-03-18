@@ -1,7 +1,7 @@
 {
-    "name": "CodeAnywhere-Desktop",
+    "name": "Clipperz-Desktop",
     "version": "1.0.0",
-    "main": "https://codeanywhere.com/login",
+    "main": "https://clipperz.is/app/",
     "window": {
         "toolbar": false,
         "icon": "icon.png",

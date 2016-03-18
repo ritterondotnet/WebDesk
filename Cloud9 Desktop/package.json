@@ -1,6 +1,6 @@
 {
     "name": "Cloud9-Desktop",
-    "version": "1.0",
+    "version": "1.0.0",
     "main": "https://c9.io/login",
     "window": {
         "toolbar": false,
