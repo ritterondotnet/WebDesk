@@ -1,3 +1,7 @@
+#nwbuild
+build/
+cache/
+
 # Logs
 logs
 *.log
