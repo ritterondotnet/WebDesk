@@ -1,0 +1,13 @@
+{
+    "name": "Koding-Desktop",
+    "version": "1.0",
+    "main": "https://koding.com",
+    "window": {
+        "toolbar": false,
+        "icon": "icon.png",
+        "fullscreen": true
+    },
+    "devDependencies": {
+        "nw-builder": "^2.2.0"
+    }
+}
