@@ -1,0 +1,13 @@
+{
+    "name": "GitLab-Desktop",
+    "version": "1.0.0",
+    "main": "https://gitlab.com/",
+    "window": {
+        "toolbar": false,
+        "icon": "icon.png",
+        "fullscreen": true
+    },
+    "devDependencies": {
+        "nw-builder": "^2.2.0"
+    }
+}
