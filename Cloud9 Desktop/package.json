@@ -1,0 +1,13 @@
+{
+    "name": "Cloud9-Desktop",
+    "version": "1.0",
+    "main": "https://c9.io",
+    "window": {
+        "toolbar": false,
+        "icon": "icon.png",
+        "fullscreen": true
+    },
+    "devDependencies": {
+        "nw-builder": "^2.2.0"
+    }
+}
