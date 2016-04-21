@@ -1,0 +1,14 @@
+{
+    "name": "RollApp-Desktop",
+    "version": "1.0.0",
+    "main": "https://www.rollapp.com/",
+    "window": {
+        "toolbar": false,
+        "icon": "icon.png",
+		"width": 800,
+		"height": 600
+    },
+    "devDependencies": {
+        "nw-builder": "^2.2.0"
+    }
+}
